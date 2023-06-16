@@ -1,19 +1,7 @@
 
-# MERN Stack CRUD Exam for Intern Student
+# Deployed Website On Render Link 
 
-Welcome to the **MERN Stack CRUD Exam!** This exam is designed to test your understanding and proficiency in building a full-stack web application using the MERN (MongoDB, Express.js, React.js, Node.js) stack. The exam will assess your ability to create, read, update, and delete data from a database, as well as your knowledge of RESTful APIs, routing, and basic frontend development with React.js.
-
-## Instructions
-
-Please read the following instructions carefully before starting the exam:
-
-1.  Clone the repository to your local machine.
-2.  Ensure that you have MongoDB, Node.js, and npm (Node Package Manager) installed on your system.
-3.  Navigate to the project directory and install the required dependencies by running `npm install` in the terminal.
-4.  Create a `.env` file in the root directory and provide the necessary environment variables (such as database connection URL, secret keys, etc.).
-5.  Implement the required features described below.
-6.  Commit and push your changes to your GitHub repository.
-7.  Send the link to your GitHub repository to the exam administrator.
+https://mernvintagestorefrontend.onrender.com/login
 
 ## Exam Requirements
 
@@ -54,16 +42,3 @@ If you would like to challenge yourself and earn bonus points, you can consider 
 -   Unit tests or integration tests to ensure the reliability of your code.
 -   Deployment of the application to a hosting service, such as Heroku or AWS.
 
-## Evaluation
-
-Your exam solution will be evaluated based on the following criteria:
-
--   Correct implementation of the required features.
--   Code quality, organization, and adherence to best practices.
--   Proper error handling and validation.
--   User interface design and user experience.
--   Use of Git for version control, including meaningful commit messages.
-
-Feel free to ask any questions if you need clarification on any aspect of the exam.
-
-Good luck with your exam!
