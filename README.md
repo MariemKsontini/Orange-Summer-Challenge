@@ -1,7 +1,9 @@
 
-# Deployed Website On Render Link 
+# MERN stack Website : VintageStore
 
-https://mernvintagestorefrontend.onrender.com/login
+## Deployed Website Link on Render
+
+https://mernvintagestorefrontend.onrender.com/
 
 ## Exam Requirements
 
